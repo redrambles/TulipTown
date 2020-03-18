@@ -1,2 +1,0 @@
-# TulipTown
-Created with CodeSandbox
